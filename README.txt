@@ -7,8 +7,6 @@ OAuth with Github.
 Cashe rating.
 Api unit tests.
 
-Deploy on server with Nginx and Gunicorn.
-Test site on:
+Deployed on server with Nginx and Gunicorn.
 http://185.235.218.164/
-user: testuser
-pass: user2022
+
